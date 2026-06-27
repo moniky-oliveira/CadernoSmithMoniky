@@ -1,3 +1,4 @@
 voila
+panel
 ipywidgets
 notebook
